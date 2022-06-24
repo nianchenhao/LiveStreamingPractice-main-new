@@ -1,0 +1,66 @@
+/* 
+ Localizable.strings
+ LiveStreamingPractice
+ 
+ Created by Robert_Nian on 2022/4/25.
+ 
+ */
+
+// HomePageVC, StreamerVideoVC
+"VisitorNickname" = "访客";
+
+// SearchVC
+"SearchPlaceholder" = "搜寻";
+"SearchResult" = "搜寻结果";
+"PopularStreamer" = "热门推荐";
+
+// PersonalVC
+"LoginFailed" = "登入失败";
+
+// RegisterVC
+"CheckEmail" = "请输入电子邮件";
+"CheckPassword" = "请输入密码";
+"CheckNickName" = "请输入昵称";
+"RegistrationFailed" = "注册失败";
+"RegistrationSuccess" = "注册成功";
+"LoginAgain" = "请再次登入";
+
+// MemberInfoVC
+"AccountEmail" = "帐号：";
+"AccountNickname" = "昵称：";
+"EditAvatar" = "编辑头像";
+"AlbumSelection" = "从相簿选取";
+"Photograph" = "拍照";
+"EditNickname" = "修改昵称";
+"EnterNewNickname" = "请输入新昵称";
+"NewNicknamePlaceholder" = "新昵称";
+"NewNicknameNotNil" = "新昵称不可空白";
+
+// StreamerVideoVC, StreamerInfoVC
+"PleaseEnterText" = "请输入文字";
+"LeaveStudio" = "离开直播间";
+"NotQuit" = "先不要";
+"Quit" = "立马走";
+"System" = "『系统』";
+"Enter" = "进入直播间";
+"Leave" = "离开直播间";
+"Following" = "关注中";
+"LoginStatusSendGiftMessage" = "请先注册会员后才能送主播礼物!";
+"LoginStatusFollowMessage" = "请先注册会员后才能关注主播!";
+"FollowSuccess" = "关注成功";
+"Follow" = "关注";
+"FollowCancel" = "取消关注";
+
+// StreamerGiftVC
+"PayDiamond" = "确定花费钻石购买";
+"CarGift" = "玛莎拉蒂";
+"RocketGift" = "战神火箭";
+"YachtGift" = "公主游艇";
+"HelicopterGift" = "海王直升机";
+"BuyIt" = "买下去";
+"NotBuyIt" = "先不要";
+
+// Alert
+"OkButton" = "确定";
+"Cancel" = "取消";
+"SystemMessage" = "系统讯息";

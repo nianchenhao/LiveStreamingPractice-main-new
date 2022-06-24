@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  LiveStreamingPractice
+
+  Created by Robert_Nian on 2022/4/25.
+  
+*/
+
+// HomePageVC, StreamerVideoVC
+"VisitorNickname" = "Visitor";
+
+// SearchVC
+"SearchPlaceholder" = "Search";
+"SearchResult" = "Search results";
+"PopularStreamer" = "Popular";
+
+// PersonalVC
+"LoginFailed" = "Login failed";
+
+// RegisterVC
+"CheckEmail" = "Please enter email";
+"CheckPassword" = "Please enter password";
+"CheckNickName" = "Please enter nickname";
+"RegistrationFailed" = "Registration failed";
+"RegistrationSuccess" = "Registration success";
+"LoginAgain" = "Please login again";
+
+// MemberInfoVC
+"AccountEmail" = "Email：";
+"AccountNickname" = "Nickname：";
+"EditAvatar" = "Edit avatar";
+"AlbumSelection" = "Album";
+"Photograph" = "Photograph";
+"EditNickname" = "Edit nickname";
+"EnterNewNickname" = "Please enter a new nickname";
+"NewNicknamePlaceholder" = "New nickname";
+"NewNicknameNotNil" = "Please enter new nickname";
+
+// StreamerVideoVC, StreamerInfoVC
+"PleaseEnterText" = "Please enter text";
+"LeaveStudio" = "Leave the studio";
+"NotQuit" = "No";
+"Quit" = "Yes";
+"System" = "『System』";
+"Enter" = "Enter the studio";
+"Leave" = "Leave the studio";
+"Following" = "Following";
+"LoginStatusSendGiftMessage" = "Please register as a member first!";
+"LoginStatusFollowMessage" = "Please register as a member first!";
+"FollowSuccess" = "Follow success";
+"Follow" = "Follow";
+"FollowCancel" = "Follow cancel";
+
+// StreamerGiftVC
+"PayDiamond" = "Make sure to spend diamonds to buy";
+"CarGift" = "Car";
+"RocketGift" = "Rocket";
+"YachtGift" = "Yacht";
+"HelicopterGift" = "Helicopter";
+"BuyIt" = "Buy";
+"NotBuyIt" = "No";
+
+// Alert
+"OkButton" = "Ok";
+"Cancel" = "Cancel";
+"SystemMessage" = "System message";

@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>134290931270-8s0t808v9m17gtplcqn1kd2ufnnkgp5s.apps.googleusercontent.com</string>
+	<string>799752663285-l0shp5ldaad0bfet7iuvduj5k6uprup9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.134290931270-8s0t808v9m17gtplcqn1kd2ufnnkgp5s</string>
+	<string>com.googleusercontent.apps.799752663285-l0shp5ldaad0bfet7iuvduj5k6uprup9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD1RUWnMe2QhaqFGKw00aY7gQp6VuygMoI</string>
+	<string>AIzaSyClYv-RmtqEa672tspkGzMK7tGZnfbQjhM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>134290931270</string>
+	<string>799752663285</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.robert-nian.LiveStreamingPractice</string>
+	<string>com.robert-nian</string>
 	<key>PROJECT_ID</key>
-	<string>livestreamingpractice</string>
+	<string>newlivestreaming-aa017</string>
 	<key>STORAGE_BUCKET</key>
-	<string>livestreamingpractice.appspot.com</string>
+	<string>newlivestreaming-aa017.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:134290931270:ios:156b8cd1c155ed8579d447</string>
+	<string>1:799752663285:ios:b69f01a348b6a98f6755bc</string>
 </dict>
 </plist>
